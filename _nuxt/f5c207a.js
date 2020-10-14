@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{251:function(w,e,n){"use strict";n.r(e),e.default={welcome:"ывдоатв"}}}]);
